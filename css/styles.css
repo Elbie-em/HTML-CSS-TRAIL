@@ -1,44 +1,45 @@
-#main{
+#main {
   text-align: center;
-  background-color:#EEEEEE; 
-  margin-top:20px;
-  margin-bottom:20px;
+  background-color: #eee;
+  margin-top: 20px;
+  margin-bottom: 20px;
   margin-left: 5px;
-  margin-right:5px;
-  border-radius:1%;
-  color:#333333;
+  margin-right: 5px;
+  border-radius: 1%;
+  color: #333;
 }
 
-#title{
-  position:relative;
-  top:35px;
-  font-family: Helvetica;
+#title {
+  position: relative;
+  top: 35px;
+  font-family: Helvetica, Arial, sans-serif;
   font-size: 45px;
-  font-weight:900;
+  font-weight: 900;
 }
 
-#description{
+#description {
   position: relative;
   font-size: 20px;
   bottom: 25px;
   font-weight: 300;
 }
 
-#img-div{
-  background-color:white; 
-  margin:10px;
+#img-div {
+  background-color: white;
+  margin: 10px;
 }
 
-#img-caption{
+#img-caption {
   font-size: 18px;
-  margin:15px;
+  margin: 15px;
 }
 
-#image{
-  position:inline-block;
+#image {
+  /* stylelint-disable-next-line csstree/validator */
+  position: inline-block;
 }
-  
-#headlines{
-  margin-top:50px;
-  text-align:left;
+
+#headlines {
+  margin-top: 50px;
+  text-align: left;
 }
